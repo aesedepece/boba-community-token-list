@@ -1,8 +1,8 @@
 {
   "name": "Boba Community TL",
-  "timestamp": "2022-05-13T20:20:48.849Z",
+  "timestamp": "2022-06-11T21:44:26.273Z",
   "version": {
-    "major": 15,
+    "major": 16,
     "minor": 0,
     "patch": 0
   },
@@ -69,6 +69,14 @@
       "decimals": 18,
       "chainId": 288,
       "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0xd22C0a4Af486C7FA08e282E9eB5f30F9AaA62C95/logo.png"
+    },
+    {
+      "name": "Koyo Token",
+      "address": "0x618CC6549ddf12de637d46CDDadaFC0C2951131C",
+      "symbol": "KYO",
+      "decimals": 18,
+      "chainId": 288,
+      "logoURI": "https://raw.githubusercontent.com/OolongSwap/token-logos/main/288/0x618CC6549ddf12de637d46CDDadaFC0C2951131C/logo.png"
     },
     {
       "name": "Boba WAGMI v3 Oolong Option",
